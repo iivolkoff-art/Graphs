@@ -1,16 +1,16 @@
 # Graphs
 
 This project has three data structures: 
-Singly linked list;
-doubly linked list;
-Binary tree.
+- **Singly linked list**;
+- **Doubly linked list**;
+- **Binary tree**.
 
  Each of the entities is template and can work with 5 data types:
-int;
-double;
-string;
-char;
-bool;
+- **int**;
+- **double**;
+- **string**;
+- **char**;
+- **bool**;
 
 LinkedList(Singly linked list):
 
