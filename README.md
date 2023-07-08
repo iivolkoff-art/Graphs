@@ -16,16 +16,16 @@ bool;
 LinkedList(Singly linked list):
 ![Image text](Page/LinkedList.PNG)
 Methods:
-![Image text](Page/LinkedListMeth.png)
+![Image text](Page/LinkedListMeth.PNG)
 
 
 TwoBidirectionalLinkedList(Doubly linked list;):
-![Image text](Page/SecondList.png)
+![Image text](Page/SecondList.PNG)
 Methods:
-![Image text](Page/SecondListMeth.png)
+![Image text](Page/SecondListMeth.PNG)
 
 
 BinaryTree(Binary tree):
-![Image text](Page/BinaryTree.png)
+![Image text](Page/BinaryTree.PNG)
 Methods:
-![Image text](Page/BinaryTreeMeth.png)
+![Image text](Page/BinaryTreeMeth.PNG)
