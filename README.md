@@ -14,7 +14,7 @@ char;
 bool;
 
 LinkedList(Singly linked list):
-![Image text](Page/LinkedList.png)
+![Image text](Page/LinkedList.PNG)
 Methods:
 ![Image text](Page/LinkedListMeth.png)
 
