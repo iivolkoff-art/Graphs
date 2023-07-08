@@ -10,7 +10,7 @@ This project has three data structures:
 - **double**;
 - **string**;
 - **char**;
-- **bool**;
+- **bool**.
 
 LinkedList(Singly linked list):
 
