@@ -14,18 +14,27 @@ char;
 bool;
 
 LinkedList(Singly linked list):
+
 ![Image text](Page/LinkedList.PNG)
+
 Methods:
+
 ![Image text](Page/LinkedListMeth.PNG)
 
 
 TwoBidirectionalLinkedList(Doubly linked list;):
+
 ![Image text](Page/SecondList.PNG)
+
 Methods:
+
 ![Image text](Page/SecondListMeth.PNG)
 
 
 BinaryTree(Binary tree):
+
 ![Image text](Page/BinaryTree.PNG)
+
 Methods:
+
 ![Image text](Page/BinaryTreeMeth.PNG)
